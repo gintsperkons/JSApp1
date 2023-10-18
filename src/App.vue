@@ -41,7 +41,6 @@ body {
   padding:0px;
   margin:0px;
   width: 100%;
-  height: auto;
   display: flex;
   flex-direction: column;
   align-self: stretch !important;
